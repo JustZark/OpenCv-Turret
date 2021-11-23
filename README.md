@@ -1,2 +1,2 @@
 # OpenCv-Turret
-Automatized turred that follows hands using Mediapipe by Google.
+Automatized turret that follows hands using Mediapipe by Google.
